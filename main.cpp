@@ -67,6 +67,7 @@ void dispatcher(Reg* r) {
             r->h = readByte(r->sp);
             r->sp++;
             r->m = 3; r->t =12;
+		case 0x
     }
 }
 
